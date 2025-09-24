@@ -1,0 +1,22 @@
+[
+  { "descripcion": "Alegría desbordante.", "puntaje": 3, "_id": "68ad3caebfab39b21140b849" },
+  { "descripcion": "Tristeza profunda.", "puntaje": 3, "_id": "68ad3cae4e540d66f9420e87" },
+  { "descripcion": "Miedo paralizante.", "puntaje": 3, "_id": "68ad3cae80b03bf8cb14e029" },
+  { "descripcion": "Amor eterno.", "puntaje": 3, "_id": "68ad3cae9af96c448e0488cd" },
+  { "descripcion": "Envidia corrosiva.", "puntaje": 2, "_id": "68ad3cae594efe3aab41b2cd" },
+  { "descripcion": "Sorpresa inesperada.", "puntaje": 2, "_id": "68ad3cae1f4682c803f62cae" },
+  { "descripcion": "Ira incontrolable.", "puntaje": 2, "_id": "68ad3caeebeda49458aca047" },
+  { "descripcion": "Gratitud sincera.", "puntaje": 2, "_id": "68ad3cae4242984d8e2c3dfc" },
+  { "descripcion": "Nostalgia de la infancia.", "puntaje": 2, "_id": "68ad3cae35798620b211698d" },
+  { "descripcion": "Esperanza renovada.", "puntaje": 2, "_id": "68ad3cae3566b4fecde8cd26" },
+  { "descripcion": "Confusión abrumadora.", "puntaje": 1, "_id": "68ad3caee52719a6ca320f89" },
+  { "descripcion": "Culpa agobiante.", "puntaje": 1, "_id": "68ad3caeac13ed6e757fdbbf" },
+  { "descripcion": "Orgullo por un logro.", "puntaje": 1, "_id": "68ad3cae680b45ad16e7fe63" },
+  { "descripcion": "Vergüenza por un error.", "puntaje": 1, "_id": "68ad3caea6b405222d2b74e3" },
+  { "descripcion": "Empatía hacia otro.", "puntaje": 1, "_id": "68ad3caecd7bf4097d2c0ac8" },
+  { "descripcion": "Desesperación total.", "puntaje": 1, "_id": "68ad3cae147e14505f070e11" },
+  { "descripcion": "Felicidad contagiosa.", "puntaje": 1, "_id": "68ad3caeca3fd066ea81d954" },
+  { "descripcion": "Admiración por un héroe.", "puntaje": 1, "_id": "68ad3caea089a68bee8d8c25" },
+  { "descripcion": "Aversión a algo.", "puntaje": 1, "_id": "68ad3cae6713d45e3b7e5005" },
+  { "descripcion": "Calma interior.", "puntaje": 1, "_id": "68ad3caec540a98966002757" }
+]
